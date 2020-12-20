@@ -1,0 +1,2 @@
+# Studion
+In The current (2020) corona pandemic, where we students were facing troubles in online classes, we thought to build something that will help blind, deaf and even us as students.  It helps the teacher and students connect via a chat box available as well as allows them to stream study content from youtube directly along with downloading the text spoken in video in both text and braille, along with downloading facilities of audio and video. It also attempts to summarize the hence obtained text and present that in braille as well.
