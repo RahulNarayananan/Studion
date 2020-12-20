@@ -8,7 +8,24 @@ It helps the teacher and students connect via a chat box available as well as al
 ## How I built it
 We built this using python language and some python libraries and api available on net
 
-## Prepaer to use
+## Prepare to use
+Before using this project following python files needed to be installed:
+python-vlc
+pafy
+googleclient
+youtube-dl
+moviepy
+shutil
+SpeechRecognition
+ntlk
+socket
+ffmpeg
+ffprobe
+webrtcvad
+should have enabled Youtube_api
+
+After installing, StudIon.py should be lanched to start the project.
+To exit the client-server chat you may use Ctrl+C or close the window directly
 
 ## Challenges I ran into
 We faced many challenges like finding the apt library to extract youtube content, we were stuck when the audio extracted from video won't convert to text at all for which we had to speed forward the silent parts of it while keeping the rest of audio as it is. Some more challenges that we faced were related to client-server chat wherein the socket connection would not connect. Even while converting to braille the encryption pattern didn't match for a few tries and audio to text conversion still is not completely accurate and there is scope of missing words and errors.
