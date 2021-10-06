@@ -5,7 +5,7 @@ In The current (2020) corona pandemic, where we students were facing troubles in
 ## What it does
 It helps the teacher and students connect via a chat box available as well as allows them to stream study content from youtube directly along with downloading the text spoken in video in both text and braille, along with downloading facilities of audio and video. It also attempts to summarize the hence obtained text and present that in braille as well.
  
-## How I built it
+## How we built it
 We built this using python language and some python libraries and api available on net
 
 ## Prepare to use
@@ -27,15 +27,15 @@ should have enabled Youtube_api
 After installing, StudIon.py should be lanched to start the project.\
 To exit the client-server chat you may use Ctrl+C or close the window directly
 
-## Challenges I ran into
+## Challenges we ran into
 We faced many challenges like finding the apt library to extract youtube content, we were stuck when the audio extracted from video won't convert to text at all for which we had to speed forward the silent parts of it while keeping the rest of audio as it is. Some more challenges that we faced were related to client-server chat wherein the socket connection would not connect. Even while converting to braille the encryption pattern didn't match for a few tries and audio to text conversion still is not completely accurate and there is scope of missing words and errors.
 
-## Accomplishments that I'm proud of
+## Accomplishments that we are proud of
 We are proud that we have reached wherever we are currently.
 I didn't think I would be able to download youtube video, audio or infact text from it using python like this and I am proud that we did do it. 
 I am also proud that we could make a socket connection and be able to chat using that
 
-## What I learned
+## What we learned
 We learned the following things:\
 youtube video extraction\
 video to audio extraction\ 
@@ -58,6 +58,7 @@ Attempts are also being made to present this using a GUI (Graphical User Interfa
 We are also trying to add file upload system from students and teachers side and if it is a text document then possibly even convert that to audio and braille if requested by user students and teachers.
 
 ## Credits
+My teammate who i worke on this project with: https://github.com/Nipunx23
 Check out the following repositories which we took help to and modified as needed:\
 https://github.com/LazoCoder/Braille-Translator   \
 https://github.com/carykh/jumpcutter
