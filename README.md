@@ -58,7 +58,7 @@ Attempts are also being made to present this using a GUI (Graphical User Interfa
 We are also trying to add file upload system from students and teachers side and if it is a text document then possibly even convert that to audio and braille if requested by user students and teachers.
 
 ## Credits
-My teammate who i worke on this project with: https://github.com/Nipunx23
+My teammate who i worked on this project with: https://github.com/Nipunx23
 Check out the following repositories which we took help to and modified as needed:\
 https://github.com/LazoCoder/Braille-Translator   \
 https://github.com/carykh/jumpcutter
